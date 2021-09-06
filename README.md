@@ -12,7 +12,7 @@
 [![Bot Updates](https://img.shields.io/badge/VideoPlayerBot-Updates%20Channel-green)](https://t.me/AsmSafone)
 [![Bot Support](https://img.shields.io/badge/VideoPlayerBot-Support%20Group-blue)](https://t.me/safothebot)
 
-An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Telegram Voice Chat.
+A bot To Stream Videos in Telegram Voice Chat.
 
 ## Deploy To Heroku
 <p><a href="https://heroku.com/deploy?template=https://github.com/AsmSafone/VideoPlayerBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
